@@ -24,7 +24,7 @@ SECRET_KEY = 'u_b$if^r^o)+6=kxgv(1e-1sy05ilu2h&r18a@zzz!%2ydc3xa'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['www.ph.uz', 'ph.uz', '*']
+ALLOWED_HOSTS = ['www.ph.uz', 'ph.uz', '167.71.142.101']
 
 # Application definition
 
